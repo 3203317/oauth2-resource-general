@@ -13,8 +13,8 @@
   "author": "huangxin <3203317@qq.com>",
   "license": "ISC",
   "dependencies": {
-    "opena": "0.1.15",
-    "speedt-utils": "0.1.69",
+    "opena": "0.1.18",
+    "speedt-utils": "0.1.70",
     "speedt-redis": "0.1.60",
     "speedt-mysql": "0.1.62",
     "iconv-lite": "0.4.13",
